@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "midudev",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_kv84TB3x0uLWcJwfLWDX0rA9R_r22ckPwvpWxsS5x29eE=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@midudev"
+    },
+    {
+        "id": 2,
+        "name": "midulive",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_lPBcTSzb5NqMhKQSo6aaTPcnPM2EZhvhdcQi0YvPmflQ=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@midulive"
+    },
+    {
+        "id": 3,
+        "name": "Fazt Code",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/1MQimlFDJ_dRqQMZCIKv6q2-G7oIB-Vngg5-GZLaN3LTIGkXuNW79ftTWMddm0gP5xYh3EK99Q=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@FaztCode"
+    },
+    {
+        "id": 4,
+        "name": "Fazt",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/ytc/AIdro_nlI29kkP3d2OAKZTdDVgkDA6D7g7TfNvSKNBGTY-5cQHY=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@FaztTech"
+    },
+    {
+        "id": 5,
+        "name": "Coding in Public",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/B2DWJIkC4ri5qb11aZGfUt6w6HKqZi4oUEli49C-1FLxxdsrM5YiajyTNKMSd9i-aRvoFUFqJTU=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@CodinginPublic"
+    },
+    {
+        "id": 6,
+        "name": "Web Dev Simplified",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/RerL_HygEZuzI-VMS6GRtuSneViN7j6fjCYIGPNqzoLGlbBd0C4GKqBu3g7hJWiEJskeoYBc=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@GentlemanProgramming"
+    }
+]

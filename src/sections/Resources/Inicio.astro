@@ -1,0 +1,41 @@
+---
+import resourcesData from "@/data/resources.json";
+---
+
+<section>
+    <div class="flex flex-col gap-5">
+        <h2 class="text-2xl font-bold">Canales de YouTube</h2>
+        <div class="flex gap-5">
+            {
+                resourcesData.map((data) => {
+                    return (
+                        <div class="flex flex-col items-center gap-2">
+                            <img
+                                src={data.image}
+                                alt={data.name}
+                                width="120"
+                                class="rounded"
+                            />
+                            <a
+                                href={data.url}
+                                target="_blank"
+                                class="font-medium text-yellow-400 hover:underline"
+                            >
+                                {data.name}
+                            </a>
+                        </div>
+                    );
+                })
+            }
+        </div>
+    </div>
+    <div>
+        <h2 class="text-2xl font-bold">Repositorios</h2>
+    </div>
+    <div>
+        <h2 class="text-2xl font-bold">Videos</h2>
+    </div>
+    <div>
+        <h2 class="text-2xl font-bold">Plataformas</h2>
+    </div>
+</section>
