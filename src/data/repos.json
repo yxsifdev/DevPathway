@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Libros de Programación en Español y gratuitos",
+        "url": "https://github.com/midudev/libros-programacion-gratis"
+    },
+    {
+        "id": 2,
+        "name": "El camino del Frontend Developer",
+        "url": "https://github.com/mrcodedev/frontend-developer-resources"
+    },
+    {
+        "id": 3,
+        "name": "Clean Code traducido al Español",
+        "url": "https://github.com/andersontr15/clean-code-javascript-es"
+    }
+]

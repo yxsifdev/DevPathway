@@ -51,12 +51,22 @@
     },
     {
         "id": 6,
-        "name": "Web Dev Simplified",
+        "name": "Gentleman Programming",
         "label": "Astro is a framework for building web applications.",
         "content": {
             "description": "Youtuber e informante"
         },
         "image": "https://yt3.googleusercontent.com/RerL_HygEZuzI-VMS6GRtuSneViN7j6fjCYIGPNqzoLGlbBd0C4GKqBu3g7hJWiEJskeoYBc=s160-c-k-c0x00ffffff-no-rj",
         "url": "https://www.youtube.com/@GentlemanProgramming"
+    },
+    {
+        "id": 7,
+        "name": "Codevolution",
+        "label": "Astro is a framework for building web applications.",
+        "content": {
+            "description": "Youtuber e informante"
+        },
+        "image": "https://yt3.googleusercontent.com/os7Yw6RimtysXXpc8NrXraci87TjXgZSUQyAezi0D3RrNL3YP5riIwi1-0al4Wz0XwzH6oBu6g=s160-c-k-c0x00ffffff-no-rj",
+        "url": "https://www.youtube.com/@Codevolution"
     }
 ]

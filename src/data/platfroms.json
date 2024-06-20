@@ -1,0 +1,23 @@
+[
+    {
+        "name": "CodeSignal",
+        "image": "https://i.imgur.com/ebbDXjh.jpg",
+        "url": "https://codesignal.com/"
+    },
+    {
+        "name": "Google for Developers",
+        "image": "https://i.imgur.com/GC93GNp.jpg",
+        "url": "https://developers.google.com/"
+    },
+    {
+        "name": "W3schools",
+        "image": "https://i.imgur.com/fvS7OGD.jpg",
+        "url": "https://www.w3schools.com/"
+    }
+    ,
+    {
+        "name": "Aprende JavaScript",
+        "image": "https://i.imgur.com/mSQH0JV.jpg",
+        "url": "https://www.aprendejavascript.dev/"
+    }
+]
